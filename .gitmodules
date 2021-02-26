@@ -1,0 +1,6 @@
+[submodule "tests/libs/libauto_test"]
+	path = tests/libs/libauto_test
+	url = https://github.com/TemporalResearch/AutoTest.git
+[submodule "libs/libcpp_logger"]
+	path = libs/libcpp_logger
+	url = https://github.com/TemporalResearch/cpp_logger.git

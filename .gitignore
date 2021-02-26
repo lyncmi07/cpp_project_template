@@ -1,0 +1,9 @@
+lib
+obj
+bin
+tests/obj
+tests/test_build
+docs/html
+docs/latex
+
+*.swp
